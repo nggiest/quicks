@@ -1,20 +1,14 @@
-[
-    {
-        "id": 1,
-        "title": "Meeting Room",
-        "peopleCount": 10,
-        "lastMessage": "Don't forget to submit your reports."
-    },
-    {
-        "id": 2,
-        "title": "Project Discussion",
-        "peopleCount": 5,
-        "lastMessage": "Please review the project plan."
-    },
-    {
-        "id": 3,
-        "title": "Team Lunch",
-        "peopleCount": 12,
-        "lastMessage": "Let's decide on the restaurant."
-    }
-]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
