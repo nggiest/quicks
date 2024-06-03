@@ -1,13 +1,20 @@
-{
-  "id": 010120,
-  "title": "Project Task Order Management",
-  "countPeople": 3,
-  "lastDate": 2024-6-2
-},
-{
-  "id": 010122,
-  "title": "Project Task Order Detail",
-  "countPeople": 2,
-  "lastDate": 2024-6-1
-},
-
+[
+    {
+        "id": 1,
+        "title": "Meeting Room",
+        "peopleCount": 10,
+        "lastMessage": "Don't forget to submit your reports."
+    },
+    {
+        "id": 2,
+        "title": "Project Discussion",
+        "peopleCount": 5,
+        "lastMessage": "Please review the project plan."
+    },
+    {
+        "id": 3,
+        "title": "Team Lunch",
+        "peopleCount": 12,
+        "lastMessage": "Let's decide on the restaurant."
+    }
+]
